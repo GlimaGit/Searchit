@@ -7,7 +7,7 @@ function pesquisarFilme(e){
 }
 
 function buscaFilmes(filmePesquisa){
-    axios.get('http://www.omdbapi.com/?s=' + filmePesquisa)
+    axios.get('http://www.omdbapi.com/?apikey=thewdb&s=' + filmePesquisa)
         .then(function (response) {
             console.log(response);
             var filmes = response.data.Search;
