@@ -75,3 +75,11 @@ body {
     }
 }
 
+.thumbnail {
+    height: 360px;
+    text-align: center;
+}
+
+.thumbnail img{
+    height: 230px;
+}
