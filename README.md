@@ -1,4 +1,4 @@
-<h1 align="center">SEARCHIT</h1>
+<h1 align="center">🔎 SEARCHIT</h1>
   
 Projeto:
 
