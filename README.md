@@ -8,3 +8,4 @@ No SEARCHIT você pode achar seus filmes e séries de TV favoritos de uma forma 
 
 ![alt text](https://github.com/GlimaGit/Searchit/blob/master/Preview/Captura%20de%20Tela%202021-03-15%20%C3%A0s%2018.17.16.png?raw=true)
 
+***O site foi desenvolvido utilizando as tecnologias: JavaScript , CSS, e HTML. Foi utilizada a api OMBD***
