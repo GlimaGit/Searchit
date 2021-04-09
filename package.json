@@ -1,0 +1,19 @@
+{
+  "name": "searchit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlimaGit/Searchit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlimaGit/Searchit/issues"
+  },
+  "homepage": "https://github.com/GlimaGit/Searchit#readme"
+}
