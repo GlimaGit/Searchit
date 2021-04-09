@@ -51,7 +51,7 @@ function mostraFilme() {
                           <div class="col-md-6">
                             <img src="${filme.Poster}" class="img-responsive">
                             <hr>
-                            <p> <h1><strong>${filme.Title}</strong></h1></p>
+                            <h1><strong>${filme.Title}</strong></h1>
                              <hr>
                           </div>
                           <hr>
@@ -68,6 +68,7 @@ function mostraFilme() {
                               </ul>
                               <hr>
                               <h3><b>Descrição</b></h3>
+                              <hr>
                               ${filme.Plot}
                               <hr>
                               <a href="http://imdb.com/title/${filme.imdbID}" target="_blank" class="btn btn-success pull-left">Ver no iMDB</a>
@@ -83,8 +84,3 @@ function mostraFilme() {
         });
 
 }
-
-
-
-
-
